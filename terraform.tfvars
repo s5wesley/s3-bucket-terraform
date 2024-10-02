@@ -1,0 +1,8 @@
+aws_region          = "us-east-1"
+aws_profile         = "default"
+bucket_name         = "s5wesley_bucket"
+replica_region      = "us-west-2"
+replica_bucket_name = "s5wesley_bucket_replica"
+bucket_acl          = "private"
+environment         = "Dev"
+key_name            = "terraform"
